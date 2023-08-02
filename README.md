@@ -21,13 +21,13 @@ You can run the script using one of the following commands, depending on whether
 
 For a single hostname:
    ```bash
-python3 multi_launcher.py -h [hostname]
+python3 checks.py -h [hostname]
    ```
 
 For a file containing multiple hostnames:
 
    ```bash
-python3 multi_launcher.py -f [filename]
+python3 checks.py -f [filename]
    ```
 
 
